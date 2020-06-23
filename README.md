@@ -1,3 +1,2 @@
-Duo App(PWA) Online: https://i413957.hera.fhict.nl/
-
-Backend(API) Online: https://shouldieatit.herokuapp.com/products
+ShouldIEatIt is a pwa where you can scan the barcode of products and see its nutrition information.
+You are able to see if it contains anything your are allergic to and lets you know whether you should consume it or not. 
